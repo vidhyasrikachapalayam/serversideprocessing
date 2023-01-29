@@ -120,9 +120,10 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT:
-![OUTPUT](./out1.png)
+![server1](https://user-images.githubusercontent.com/119477817/215339997-4f6634ff-ed43-4294-a025-65fa9a6fcdac.png)
 
-![Output](./out2.png)
+![server2](https://user-images.githubusercontent.com/119477817/215340014-11fff5b5-34b1-4916-b516-636dcbd85c4e.png)
+
 ## Result:
 
 The program for implementing server side processing is completed successfully.
