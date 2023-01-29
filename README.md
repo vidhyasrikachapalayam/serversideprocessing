@@ -120,9 +120,9 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT:
-![OUTPUT](./out.png)
-### Home Page:
-![Home page](./home.png)
+![OUTPUT](./out1.png)
+
+![Output](./out2.png)
 ## Result:
 
 The program for implementing server side processing is completed successfully.
